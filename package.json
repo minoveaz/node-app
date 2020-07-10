@@ -15,7 +15,8 @@
     "mongodb",
     "express",
     "login",
-    "signin"
+    "signin",
+    "CRUD"
   ],
   "author": "Miller Camilo Vega Diaz - Fazt Tutorial",
   "license": "MIT",
