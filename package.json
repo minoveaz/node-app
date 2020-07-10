@@ -1,0 +1,26 @@
+{
+  "name": "notes-app",
+  "version": "1.0.0",
+  "description": "app to create notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minoveaz/node-app.git"
+  },
+  "keywords": [
+    "node",
+    "mongodb",
+    "express",
+    "login",
+    "signin"
+  ],
+  "author": "Miller Camilo Vega Diaz - Fazt Tutorial",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/minoveaz/node-app/issues"
+  },
+  "homepage": "https://github.com/minoveaz/node-app#readme"
+}
